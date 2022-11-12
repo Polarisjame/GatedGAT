@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GAT Learning
 
 A basic GAT model using residual connection as [**DeepGCNs**](https://arxiv.org/abs/1904.03751) described, trained to classify a paper node into 7 classes.
@@ -75,4 +74,4 @@ Here are some important parameters:
 
 You can see my checkpoints and loss/acc during my trainingin in [CheckPoints](./path/checkpoints). Here are the example ![fig1](path\checkpoints\acc-95.40%_layers-1_lr-5.00e-04_hid_dim-128_res.jpg)
 And you can also open [Tensorboardlog](path\log) in Tensorboard to see the Visualization of train.
->>>>>>> 7f56435 (main)
+
