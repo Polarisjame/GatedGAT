@@ -31,7 +31,7 @@ Here are some important parameters:
 
 ## Results
 
-You can see my checkpoints and loss/acc during my trainingin in [CheckPoints](./path/checkpoints). Here are the example ![fig1](path\checkpoints\acc-95.40%_layers-1_lr-5.00e-04_hid_dim-128_res.jpg)
+You can see my checkpoints and loss/acc during my trainingin in [CheckPoints](./path/checkpoints). Here are the example ![fig1](./path/checkpoints/acc-95.40%_layers-1_lr-5.00e-04_hid_dim-128_res.jpg)
 And you can also open [Tensorboardlog](\path\log) in Tensorboard to see the Visualization of train.
 
 [![Security Status](https://www.murphysec.com/platform3/v3/badge/1611236784487313408.svg)](https://www.murphysec.com/accept?code=05b54279236a52098e663d8e3d7db29f&type=1&from=2&t=2)
